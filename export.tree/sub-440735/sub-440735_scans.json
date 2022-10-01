@@ -1,0 +1,11 @@
+{
+    "score": {
+        "LongName": "Clinical artefact score",
+        "Description": "Image quality score from the point of view of clinical diagnostic use, rated by a neuroradiologist",
+        "Levels": {
+            "1": "Good quality image",
+            "2": "Medium quality image",
+            "3": "Bad quality image (considered unusable for clinical diagnostic use)"
+        }
+    }
+}
