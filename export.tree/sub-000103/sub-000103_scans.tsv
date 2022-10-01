@@ -1,0 +1,4 @@
+filename	score
+anat/sub-000103_acq-standard_T1w.nii.gz	1
+anat/sub-000103_acq-headmotion1_T1w.nii.gz	2
+anat/sub-000103_acq-headmotion2_T1w.nii.gz	3
