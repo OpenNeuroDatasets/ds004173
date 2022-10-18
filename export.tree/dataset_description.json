@@ -1,0 +1,26 @@
+{
+    "Name": "Movement-related artefacts (MR-ART) dataset",
+    "BIDSVersion": "1.2.1",
+    "License": "CC0",
+    "Authors": [
+        "Adam Narai",
+        "Petra Hermann",
+        "Tibor Auer",
+        "Peter Kemenczky",
+        "Janos Szalma",
+        "Istvan Homolya",
+        "Eszter Somogyi",
+        "Pal Vakli",
+        "Bela Weiss",
+        "Zoltan Vidnyanszky"
+    ],
+    "HowToAcknowledge": "If you use these data, please cite the dataset and our associated paper published in Scientific Data.",
+    "Funding": [
+        "Hungarian National Research, Development and Innovation Office (GINOP-2.2.1-18-2018-00001)",
+        "Hungarian Brain Research Program (2017-1.2.1-NKP-2017-00002)"
+    ],
+    "EthicsApprovals": [
+        "The research protocol used for collecting the dataset was approved by the National Institute of Pharmacy and Nutrition (file number: OGYEI/70184/2017)."
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004173.v1.0.0"
+}
