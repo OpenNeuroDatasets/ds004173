@@ -14,7 +14,7 @@
         "Béla Weiss",
         "Zoltán Vidnyánszky"
     ],
-    "HowToAcknowledge": "If you use these data, please cite the dataset and our associated paper published in Scientific Data.",
+    "HowToAcknowledge": "Please cite the following publication describing the dataset: Nárai, Á., Hermann, P., Auer, T. et al. Movement-related artefacts (MR-ART) dataset of matched motion-corrupted and clean structural MRI brain scans. Sci Data 9, 630 (2022). https://doi.org/10.1038/s41597-022-01694-8",
     "Funding": [
         "Hungarian National Research, Development and Innovation Office (GINOP-2.2.1-18-2018-00001)",
         "Hungarian Brain Research Program (2017-1.2.1-NKP-2017-00002)"
